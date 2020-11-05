@@ -1,4 +1,4 @@
-# catvsdog
+# flowerdetector
 
 A new Flutter project.
 
