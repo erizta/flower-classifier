@@ -1,2 +1,5 @@
-Cat
-Dog
+Daisy
+Dandelion
+Roses
+Sunflowers
+Tulips
